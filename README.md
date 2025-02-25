@@ -1,18 +1,29 @@
-## Getting Started
+Java Exercise: Grokking Algorithms 📘💻
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Этот репозиторий создан для практики и закрепления алгоритмов из книги "Grokking Algorithms" на языке программирования Java.
+🎯 Цели проекта
 
-## Folder Structure
+    Изучение и реализация базовых алгоритмов на Java.
+    Решение практических задач для закрепления материала.
+    Развитие навыков написания чистого и понятного кода.
 
-The workspace contains two folders by default, where:
+🚀 Что уже реализовано?
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+    ✅ Вывод значений элементов массива
+    ✅ Удвоение значений элементов массива
+    ✅ Таблица умножения для элементов массива
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Java Exercise: Grokking Algorithms 📘💻
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+This repository is created for practicing and reinforcing algorithms from the book "Grokking Algorithms" using Java.
+🎯 Project Goals
 
-## Dependency Management
+    Learn and implement basic algorithms in Java.
+    Solve practical tasks to reinforce the material.
+    Develop skills in writing clean and understandable code.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+🚀 What’s Implemented?
+
+    ✅ Output of array elements
+    ✅ Doubling array element values
+    ✅ Multiplication table for array elements
